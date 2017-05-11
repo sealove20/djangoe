@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2fb36ba-f80b-426c-9ea5-bd18456af2a8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ecommerce.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/static/assets/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/static/assets/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/static/assets/custom.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/templates/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/templates/product.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/templates/products.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/tests/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/tests/test_views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecommerce/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecommerce/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecommerce/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ecommerce/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecommerce/settings.py" afterPath="$PROJECT_DIR$/ecommerce/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,8 +23,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ecommerce/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="128" column="57" lean-forward="false" selection-start-line="128" selection-start-column="57" selection-end-line="128" selection-end-column="57" />
+            <state relative-caret-position="403">
+              <caret line="128" column="61" lean-forward="true" selection-start-line="128" selection-start-column="61" selection-end-line="128" selection-end-column="61" />
               <folding>
                 <element signature="e#311#320#0" expanded="true" />
               </folding>
@@ -533,7 +503,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="1358" y="-8" width="1936" height="1066" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -717,8 +687,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ecommerce/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="128" column="57" lean-forward="false" selection-start-line="128" selection-start-column="57" selection-end-line="128" selection-end-column="57" />
+        <state relative-caret-position="403">
+          <caret line="128" column="61" lean-forward="true" selection-start-line="128" selection-start-column="61" selection-end-line="128" selection-end-column="61" />
           <folding>
             <element signature="e#311#320#0" expanded="true" />
           </folding>
